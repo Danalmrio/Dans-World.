@@ -1,2 +1,2 @@
 # Dans-World.
-For Educational Purpose
+For Educational Purposes Only
